@@ -69,5 +69,6 @@ Lecture · Voyages (Royaume-Uni, Nouvelle-Zélande)
 
 📫 **Pour me contacter**  
 amelie.gattepaille@gmail.com
+
 https://www.linkedin.com/in/amélie-gattepaille-54086510b/
 
