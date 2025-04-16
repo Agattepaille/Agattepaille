@@ -1,5 +1,6 @@
 
-<!--
+Hello !
+
 ## 👩‍💻 À propos de moi
 
 Bonjour, je suis **Amélie Gattepaille**, développeuse fullstack en reconversion après plusieurs années dans le monde de l’édition. Aujourd’hui, je me consacre pleinement au développement web, un domaine qui me passionne pour sa richesse technique et son potentiel d’innovation.
@@ -70,5 +71,3 @@ Lecture · Voyages (Royaume-Uni, Nouvelle-Zélande)
 amelie.gattepaille@gmail.com
 https://www.linkedin.com/in/amélie-gattepaille-54086510b/
 
-
--->
